@@ -9,7 +9,7 @@ each in its own subfolder with a self-contained notebook, script, and README.
 |---|------------|-----------|--------|
 | 1 | Medical Insurance Cost Prediction | Multiple Linear Regression | [`Assignment-1-Medical-Insurance-Cost-Prediction`](./Assignment-1-Medical-Insurance-Cost-Prediction) |
 | 2 | Customer Churn Prediction | Logistic Regression | [`Assignment-2-Customer-Churn-Prediction`](./Assignment-2-Customer-Churn-Prediction) |
-| 3 | Employee Salary Prediction |Polynomial Regression | |
+| 3 | Employee Salary Prediction |Polynomial Regression |[`Assignment-3-Employee-Salary-Prediction`](./Assignment-3-Employee-Salary-Prediction) |
 | 4 | *(coming soon)* | | |
 | 5 | *(coming soon)* | | |
 | 6 | *(coming soon)* | | |
