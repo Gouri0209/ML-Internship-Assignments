@@ -1,0 +1,7 @@
+# Dataset (download from Kaggle, do not commit)
+Position_Salaries.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
