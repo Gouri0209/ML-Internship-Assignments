@@ -11,7 +11,7 @@ each in its own subfolder with a self-contained notebook, script, and README.
 | 2 | Customer Churn Prediction | Logistic Regression | [`Assignment-2-Customer-Churn-Prediction`](./Assignment-2-Customer-Churn-Prediction) |
 | 3 | Employee Salary Prediction |Polynomial Regression |[`Assignment-3-Employee-Salary-Prediction`](./Assignment-3-Employee-Salary-Prediction) |
 | 4 | Breast Cancer Classification|K-Nearest Neighbors (KNN) |[`Assignment-4-KNN-BreastCancer`](./Assignment-4-KNN-BreastCancer)|
-| 5 | Employee Attrition Prediction |Decision Tree and Random Forest Classification|[`Assignment-5-Employee Attrition Prediction`](./Assignment-5-Employee Attrition Prediction) |
+| 5 | Employee Attrition Prediction |Decision Tree and Random Forest Classification|[`Assignment-5-Employee Attrition Prediction`](./Assignment-5-Employee%20Attrition%20Prediction/)|
 | 6 | *(coming soon)* | | |
 | 7 | *(coming soon)* | | |
 | 8 | *(coming soon)* | | |
@@ -42,6 +42,10 @@ assignment — open the folder for full details.
 │   └── polynomial_refression_plot.png
 ├── Assignment-4-KNN-BreastCancer/
 │   ├── Assignment-4.ipynb
+│   ├── README.md
+│   └── requirements.txt
+├── Assignment-5-Employee Attrition Prediction/
+│   ├── Assignment-5.ipynb
 │   ├── README.md
 │   └── requirements.txt
 └── README.md   (this file)
