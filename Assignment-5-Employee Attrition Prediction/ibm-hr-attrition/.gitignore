@@ -1,0 +1,18 @@
+# Dataset (do not commit - see README for Kaggle link)
+data/*.csv
+
+# Generated plots
+confusion_matrices.png
+feature_importance.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
